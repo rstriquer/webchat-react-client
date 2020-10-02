@@ -3,9 +3,20 @@
 This project is an interface to a web chat used to learn React and some other
 languages.
 
+The main objective of the project is to study programming languages and
+techniques, it has not been improved for deployment on a production server,
+only development environment.
+
 Application developed following tutorial from https://www.youtube.com/watch?v=LvfJ2wEpMrs&list=PLMhAeHCz8S3_VYiYxpcXtMz96vePOuOX3
-The full course is spreaded between some few github projects, this interface is based on the last one, provided here https://www.youtube.com/redirect?v=IdlA5fhEXoA&event=video_description&redir_token=QUFFLUhqbVVPdjl4bUlJYVNpRmFHRnRYTFVmbzFzWGJCQXxBQ3Jtc0ttV0h5Q2FwY0xsSUYyN0hiVlhQUnl5YlZsbFFPOFRRaWxMNmVtMElLNHN6S292VE1NWmZhLVdlMXo3WWNKQmhSRmoxRTdsMF9TUlZKTk5Td1ByTzF2V1RWelItWUJRNGs5NGlaQmM2R051NGdHSGlCaw%3D%3D&q=https%3A%2F%2Fgithub.com%2Fhidjou%2Fnode-graphql-react-chat-app%2Ftree%2Fclass-15
-The original project have a fullstack writen in Node.JS
+The full course is spreaded between some few github projects, this interface is
+based on the last one, provided here https://github.com/hidjou/node-graphql-react-chat-app/tree/class-15
+The original project have all (back-end and front-end) in the same project, one
+of the ideas of this project, in addition to studying the languages separately,
+is to make it possible for the front-end to be used to study other back-end
+languages and vice versa in a simpler way.
+
+For options of back end projects look in my profile for a project with the name
+webchat that has "server" in its name, descriptive or even in their README files.
 
 # Pre requirements:
 
